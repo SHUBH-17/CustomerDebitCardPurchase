@@ -1,0 +1,11 @@
+customer_id,name,debit_card_number,debit_card_type,bank_name,transaction_date,amount_spend
+1811,Darren Baker,9100097817,RuPay,HDFC,2023-01-27,2703
+1812,Rachael Toney,9865372208,MasterCard,AXIS,2023-11-10,3690
+1813,Kent Hall,9455000596,MasterCard,AXIS,2023-12-22,2812
+1814,Paula Henry,9613932946,RuPay,AXIS,2023-11-05,3965
+1815,Lynda Beck,9127276509,MasterCard,PNB,2023-11-03,173
+1816,William Brown,9262818963,MasterCard,SBI,2023-11-13,1802
+1817,Gerald Schmidt,9868098783,VISA,UNION,2023-03-04,1870
+1818,Collin Stenson,9497399950,VISA,SBI,2023-06-02,4459
+1819,John Satterfield,9184950891,VISA,UNION,2023-02-21,2821
+1820,Michael Sherratt,9364373561,RuPay,SBI,2023-04-07,394
